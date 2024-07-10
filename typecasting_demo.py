@@ -1,0 +1,9 @@
+x=10
+x2=int(x)
+x3=int(10.5)
+x4=int("20")
+x5=float(30)
+x6=float("45")
+x7=float(1.5)
+x8=complex(67)
+print(x,x2,x3,x4,x5,x6,x7,x8)
